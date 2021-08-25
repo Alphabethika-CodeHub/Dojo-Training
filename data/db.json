@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "title": "Bangunan Tahan Gempa",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus id sunt sed cupiditate in iste magnam! Laborum beatae minima, placeat sequi corrupti dicta. Tempore laborum, perspiciatis incidunt dolore praesentium tenetur.",
+            "author": "saintif"
+        },
+        {
+            "id": 2,
+            "title": "Mengendalikan Cuaca",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus id sunt sed cupiditate in iste magnam! Laborum beatae minima, placeat sequi corrupti dicta. Tempore laborum, perspiciatis incidunt dolore praesentium tenetur.",
+            "author": "saintif"
+        },
+        {
+            "id": 3,
+            "title": "James Glaisher, Manusia Pertama Yang Sampai Di Puncak Awan",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus id sunt sed cupiditate in iste magnam! Laborum beatae minima, placeat sequi corrupti dicta. Tempore laborum, perspiciatis incidunt dolore praesentium tenetur.",
+            "author": "saintif"
+        }
+    ]
+}
